@@ -1,2 +1,2 @@
 # 3D-Cube
-It's a 3D cube that rotates :)
+It's literally just a 3D cube that rotates, it's fun :)
